@@ -1,2 +1,2 @@
 # commitment
-A master repositories of my daily commits of whatever I played with on that day!
+An index of my daily thoughts or commits of whatever I played with!!
