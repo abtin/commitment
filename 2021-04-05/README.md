@@ -6,3 +6,5 @@
   - news
   - ...
 
+See the in-progress implemetaion [here](https://github.com/abtin/jackbot)
+
